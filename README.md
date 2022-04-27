@@ -1,3 +1,3 @@
 # test of AWS launched instances
 
-! [test] (/TestingAWSinstances)
+! [test] (/test/TestingAWSinstances.png "test")
