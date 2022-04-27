@@ -3,4 +3,4 @@
 ![Comment about your image](TestingAWSinstances.PNG)
 Blahahasasa
 More text
-![Comment about your image](TestingAWSinstances1.PNG)
+![Image 2](TestingAWSinstances1.PNG)
