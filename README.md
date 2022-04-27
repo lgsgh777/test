@@ -1,3 +1,3 @@
 # test of AWS launched instances
 
-![Screenshot](TestingAWSinstances.PNG)
+![Comment about your image](TestingAWSinstances.PNG)
